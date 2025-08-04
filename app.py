@@ -1,3 +1,5 @@
+import sys, os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 import streamlit as st, matplotlib.pyplot as plt
 from prompt_grader import grade_prompt
 from report_generator import generate_report
