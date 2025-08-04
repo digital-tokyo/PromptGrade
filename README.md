@@ -17,7 +17,7 @@ Elite Streamlit app that scores and visualizes AI prompts using deterministic NL
 ## 🚀 Local Setup
 
 ```bash
-git clone https://github.com/your-user/promptgrade.git
+git clone https://github.com/digital-tokyo/promptgrade.git
 cd promptgrade
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
