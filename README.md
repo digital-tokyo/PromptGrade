@@ -10,8 +10,7 @@ Elite Streamlit app that scores and visualizes AI prompts using deterministic NL
 - Sentiment & readability scoring
 - Visual bar chart
 - JSON + TXT report downloads
-- Ultra-premium UI (Sony-style)
-
+- Ultra-premium UI
 ---
 
 ## 🚀 Local Setup
